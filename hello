@@ -1,17 +1,8 @@
 #include<stdio.h>
 int main(){
-	printf("helloWorld");
+	printf("Hello World!");
+	System.out.println("Hello World");
 	return 0;
 }
-jasiojdioajsiodjasiojdoias
 
-asdjioasjdiojasoidj
-
-djasoidjasiojdioasj
-djasdjhoiashduioahsiudha
-hasdiouhdoiuahsoida
-dhasiohdioas
-hduiashduiashd
-dhasuidhasuihd
-ashduihduiash
 
