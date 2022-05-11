@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1650886909 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\main.c
+	"ElementType.h"
+	"SeqStackList.h"
+	"LinkStack.h"
+
+1650970809 c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\elementtype.h
+	<stdio.h>
+	<stdlib.h>
+
+1650967731 c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\seqstacklist.h
+	"ElementType.h"
+
+1650880980 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\seqstacklist.c
+	"SeqStackList.h"
+
+1650967731 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\linkstack.c
+	"LinkStack.h"
+
+1650967731 c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\linkstack.h
+	"ElementType.h"
+
+1650970491 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\checkerboard.c
+	"CheckerBoard.h"
+
+1650970688 c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\checkerboard.h
+	<stdio.h>
+

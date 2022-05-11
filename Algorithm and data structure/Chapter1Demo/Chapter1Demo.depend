@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1650375592 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\main.c
+	"DataElement.h"
+	"SeqList.h"
+	"LinkList.h"
+	<windows.h>
+	"CircularLinkList.h"
+
+1649548639 c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\dateelement.h
+
+1649773537 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\sequencelist.c
+	"SeqList.h"
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1649773537 c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\seqlist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1650343666 c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\dataelement.h
+
+1650031402 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\linklist.c
+	"LinkList.h"
+
+1650025554 c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\linklist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1650375117 source:c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\circularlinklist.c
+	"CircularLinkList.h"
+
+1650367554 c:\users\administrator\desktop\codeblock c\algorithm and data structure\chapter1demo\circularlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1650375117 source:c:\users\administrator\desktop\chapter1demo\circularlinklist.c
+	"CircularLinkList.h"
+
+1650367554 c:\users\administrator\desktop\chapter1demo\circularlinklist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1650343666 c:\users\administrator\desktop\chapter1demo\dataelement.h
+
+1650031402 source:c:\users\administrator\desktop\chapter1demo\linklist.c
+	"LinkList.h"
+
+1650025554 c:\users\administrator\desktop\chapter1demo\linklist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1649773537 source:c:\users\administrator\desktop\chapter1demo\sequencelist.c
+	"SeqList.h"
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1649773537 c:\users\administrator\desktop\chapter1demo\seqlist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1650375392 source:c:\users\administrator\desktop\chapter1demo\main.c
+	"DataElement.h"
+	"SeqList.h"
+	"LinkList.h"
+	<windows.h>
+	"CircularLinkList.h"
+
