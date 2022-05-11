@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647756708 source:c:\users\administrator\desktop\codeblock c\ascii search\main.c
+	<stdio.h>
+	<conio.h>
+

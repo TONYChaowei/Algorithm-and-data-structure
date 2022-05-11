@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646291290 source:c:\users\administrator\desktop\coedblock c\market\main.c
+	"Market.h"
+
+1646211744 c:\users\administrator\desktop\coedblock c\market\market.h
+	<stdio.h>
+	<stdlib.h>
+
+1646291957 source:c:\users\administrator\desktop\coedblock c\market\market.c
+	"Market.h"
+

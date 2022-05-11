@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1645256082 source:c:\users\administrator\desktop\coedblock c\account\function.c
+	"ACCOUNT.h"
+
+1645256460 c:\users\administrator\desktop\coedblock c\account\account.h
+	<stdio.h>
+	<stdlib.h>
+
+1645691973 source:c:\users\administrator\desktop\coedblock c\account\main.c
+	"ACCOUNT.h"
+
+1645256082 source:c:\users\administrator\desktop\codeblock c\c foundation\account\function.c
+	"ACCOUNT.h"
+
+1645256460 c:\users\administrator\desktop\codeblock c\c foundation\account\account.h
+	<stdio.h>
+	<stdlib.h>
+
+1649469236 source:c:\users\administrator\desktop\codeblock c\c foundation\account\main.c
+	"ACCOUNT.h"
+

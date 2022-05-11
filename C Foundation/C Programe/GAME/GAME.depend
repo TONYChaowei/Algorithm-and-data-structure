@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1646832795 source:c:\users\administrator\desktop\c练手项目\game\main.c
+	"GAME.h"
+	<stdlib.h>
+
+1646833193 source:c:\users\administrator\desktop\c练手项目\game\game.c
+	"GAME.h"
+
+1646819508 c:\users\administrator\desktop\c练手项目\game\game.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1647059889 source:c:\users\administrator\desktop\c programe\game\game.c
+	"GAME.h"
+
+1647059146 c:\users\administrator\desktop\c programe\game\game.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1647058758 source:c:\users\administrator\desktop\c programe\game\main.c
+	"Gamelib.h"
+	"GAME.h"
+	<stdlib.h>
+	<windows.h>
+
+1647010707 source:c:\users\administrator\desktop\c programe\game\gamelib.c
+	"Gamelib.h"
+	<windows.h>
+
+1647011294 c:\users\administrator\desktop\c programe\game\gamelib.h
+	<stdio.h>
+	<windows.h>
+
+1647434988 source:c:\users\administrator\desktop\codeblock c\c programe\game\game.c
+	"GAME.h"
+	"GAMElib.h"
+
+1647425052 c:\users\administrator\desktop\codeblock c\c programe\game\game.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1647355118 source:c:\users\administrator\desktop\codeblock c\c programe\game\gamelib.c
+	"GAMElib.h"
+	<windows.h>
+
+1647431023 c:\users\administrator\desktop\codeblock c\c programe\game\gamelib.h
+	<stdio.h>
+	<windows.h>
+
+1647434566 source:c:\users\administrator\desktop\codeblock c\c programe\game\main.c
+	"Gamelib.h"
+	<stdio.h>
+	"GAME.h"
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1647354225 source:c:\users\administrator\desktop\codeblock c\c programe\game\game.h
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1647355088 source:c:\users\administrator\desktop\codeblock c\c programe\game\gamelib.h
+

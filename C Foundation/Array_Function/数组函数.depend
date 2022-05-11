@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643990785 source:c:\users\administrator\desktop\coedblock c\数组函数\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643991774 source:c:\users\administrator\desktop\coedblock c\数组函数\fc.c
+	<stdio.h>
+	<stdlib.h>
+

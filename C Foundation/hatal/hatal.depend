@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644560433 source:c:\users\administrator\desktop\coedblock c\hatal\main.c
+	"hatal.h"
+
+1644560500 source:c:\users\administrator\desktop\coedblock c\hatal\hatal.c
+	"hatal.h"
+
+1644556953 c:\users\administrator\desktop\coedblock c\hatal\hatal.h
+	<stdio.h>
+	<stdlib.h>
+

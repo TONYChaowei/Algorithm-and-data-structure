@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1645107597 source:c:\users\administrator\desktop\coedblock c\game\main.c
+	"GM.h"
+
+1645159241 source:c:\users\administrator\desktop\coedblock c\game\function.c
+	"GM.h"
+
+1645106036 c:\users\administrator\desktop\coedblock c\game\gm.h
+	<stdio.h>
+	<stdlib.h>
+
+1645159241 source:c:\users\administrator\desktop\codeblock c\game\function.c
+	"GM.h"
+
+1645106036 c:\users\administrator\desktop\codeblock c\game\gm.h
+	<stdio.h>
+	<stdlib.h>
+
+1645107597 source:c:\users\administrator\desktop\codeblock c\game\main.c
+	"GM.h"
+
