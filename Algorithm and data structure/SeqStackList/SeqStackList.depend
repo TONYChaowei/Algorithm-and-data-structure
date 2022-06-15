@@ -26,3 +26,31 @@
 1650970688 c:\users\administrator\desktop\codeblock c\algorithm and data structure\seqstacklist\checkerboard.h
 	<stdio.h>
 
+1655284795 source:c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\checkerboard.c
+	"CheckerBoard.h"
+
+1655284795 c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\checkerboard.h
+	<stdio.h>
+
+1655284795 source:c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\linkstack.c
+	"LinkStack.h"
+
+1655284795 c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\linkstack.h
+	"ElementType.h"
+
+1655284795 c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\elementtype.h
+	<stdio.h>
+	<stdlib.h>
+
+1655284795 source:c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\main.c
+	"ElementType.h"
+	"SeqStackList.h"
+	"LinkStack.h"
+	"CheckerBoard.h"
+
+1655284795 c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\seqstacklist.h
+	"ElementType.h"
+
+1655284795 source:c:\users\administrator\desktop\algorithm-and-data-structure\algorithm and data structure\seqstacklist\seqstacklist.c
+	"SeqStackList.h"
+
